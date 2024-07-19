@@ -8,7 +8,11 @@ This repository contains data files that are too large for the main [WarpX sourc
 
 This section describes the directory structure:
 
-...
+Data files pertaining to a specific topic or simulation should be organized in a
+folder in the repository's base directory. For example, data files containing
+collision cross-sections used by the MCC and DSMC routines in WarpX are housed
+in a folder named `MCC_cross_sections`. Inside that folder the cross-sections of
+different atomic species are kept in separate folders.
 
 ## Contributing
 

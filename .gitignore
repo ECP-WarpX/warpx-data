@@ -1,0 +1,21 @@
+#######
+# IDE #
+#######
+.idea/
+.kdev?/
+*.kdev?
+
+##########
+# VsCode #
+##########
+.vscode
+
+# File-based project format:
+*.iws
+
+######
+# OS #
+######
+.DS_Store
+.AppleDouble
+.LSOverride
