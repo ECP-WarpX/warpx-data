@@ -9,3 +9,7 @@ The origins of the included cross-sections are as follows:
 - H ion on H2 charge exchange: H+ + H2 -> H + H2+
    T. Tabata, T. Shirai, Atomic Data and Nuclear Data Tables (2000) https://doi.org/10.1006/adnd.2000.0835 (reaction 6)
    Incoming energies (in the paper) were converted to center-of-mass energies (as expected by WarpX)
+- Photoionization: photon + H -> H+ + e-
+   A. W. Wishart, Monthly Notices of the Royal Astronomical Society (1979) https://doi.org/10.1093/mnras/187.1.59P (table 1)
+   Photon wavelength (in the paper) were converted to center-of-mass energy in eV (as expected by WarpX),
+   making the approximation that the center-of-mass frame is the same as the rest frame of the hydrogen atom.
