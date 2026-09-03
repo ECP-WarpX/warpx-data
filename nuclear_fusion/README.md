@@ -4,9 +4,9 @@ This directory contains data for nuclear fusion reaction channels. Each reaction
 directory whose name identifies its reactants and products. For example, `D_d_n_He3` represents
 the reaction $D(d,n){}^{3}He$.
 
-## Angular-distribution coefficients
+## Angular distribution coefficients
 
-Angular-distribution coefficient tables are located at
+Angular distribution coefficient tables are located at
 `<reaction>/angular_distribution/endf/coefficients.txt`. Each row contains a center-of-mass energy
 followed by the corresponding ENDF orthonormal Legendre coefficients:
 
