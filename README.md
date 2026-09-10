@@ -14,6 +14,9 @@ collision cross-sections used by the MCC and DSMC routines in WarpX are housed
 in a folder named `MCC_cross_sections`. Inside that folder the cross-sections of
 different atomic species are kept in separate folders.
 
+The `nuclear_fusion` folder contains angular distribution coefficients for nuclear fusion reactions in both ENDF and IAEA conventions.
+The energy values in the first column of every coefficient table are center-of-mass energies.
+
 ## Contributing
 
 Notes to follow.
